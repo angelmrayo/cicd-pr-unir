@@ -9,7 +9,7 @@ import sys
 
 DEFAULT_FILENAME = "words.txt"
 DEFAULT_DUPLICATES = True
-
+OPCION_NUEVA_MAIN = "Ok"
 
 def sort_list(items, ascending=True):
     if not isinstance(items, list):
