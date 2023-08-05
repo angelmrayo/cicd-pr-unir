@@ -6,6 +6,7 @@ Organization: UNIR 2023
 
 import os
 import sys
+import pandas
 
 DEFAULT_FILENAME = "words.txt"
 DEFAULT_DUPLICATES = True
